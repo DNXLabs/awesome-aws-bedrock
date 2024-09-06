@@ -1,4 +1,4 @@
-# Awesome AWS Bedrock [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome AWS Bedrock
 
 A curated list of tools and resources for working with [AWS Bedrock](https://aws.amazon.com/bedrock), the fully managed service for foundation models (FMs) like Claude, Stability AI, and Amazon's own Titan models. This list includes both open-source and proprietary tools that make it easier to integrate and utilize AWS Bedrock in your projects.
 
